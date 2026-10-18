@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-08-10",
+  "packs": [
+    {
+      "id": "naturalvision-evolved",
+      "name": "NaturalVision Evolved",
+      "description": "Pack graphique ultra-réaliste avec rendu HDR, ombres dynamiques et textures 4K. Transforme complètement l'expérience visuelle de FiveM avec un éclairage et une atmosphère fidèles à la réalité.",
+      "thumbnail": "https://i.imgur.com/EXEMPLE1.jpg",
+      "video": "https://www.youtube.com/embed/YOUTUBE_VIDEO_ID",
+      "size": "3.2 GB",
+      "addedDate": "2026-08-01",
+      "version": "9.0.3",
+      "downloadUrl": "https://github.com/TON_GITHUB/graphic-zep/releases/download/packs-v1/naturalvision-evolved.zip",
+      "installPath": "addons/naturalvision-evolved",
+      "tags": ["graphique", "HDR", "textures 4K", "réaliste"]
+    },
+    {
+      "id": "visualv-redux",
+      "name": "VisualV Redux",
+      "description": "Amélioration graphique légère et optimisée. Le meilleur équilibre performances/qualité — compatible avec la majorité des serveurs FiveM sans configuration supplémentaire.",
+      "thumbnail": "https://i.imgur.com/EXEMPLE2.jpg",
+      "video": "https://www.youtube.com/embed/YOUTUBE_VIDEO_ID_2",
+      "size": "890 MB",
+      "addedDate": "2026-08-05",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/TON_GITHUB/graphic-zep/releases/download/packs-v1/visualv-redux.zip",
+      "installPath": "addons/visualv-redux",
+      "tags": ["graphique", "optimisé", "léger", "compatible"]
+    },
+    {
+      "id": "enb-series-ultra",
+      "name": "ENB Series Ultra",
+      "description": "Configuration ENB Series poussée à l'extrême — flou cinématique, rayons volumétriques, réflexions en temps réel. Requiert une carte graphique récente (RTX 30xx minimum recommandé).",
+      "thumbnail": "https://i.imgur.com/EXEMPLE3.jpg",
+      "video": null,
+      "size": "1.4 GB",
+      "addedDate": "2026-08-09",
+      "version": "2.1.0",
+      "downloadUrl": "https://github.com/TON_GITHUB/graphic-zep/releases/download/packs-v1/enb-series-ultra.zip",
+      "installPath": "addons/enb-series-ultra",
+      "tags": ["ENB", "ultra", "cinématique", "avancé"]
+    }
+  ]
+}
